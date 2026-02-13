@@ -1,9 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=200&section=header&text=Mae%20SoloCyber&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=200&section=header&text=Mae%20SoloCyber&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
 
 <div align="center">
