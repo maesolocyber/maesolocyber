@@ -19,12 +19,15 @@
 
 ---
 
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farouqshaheen&theme=blue-navy&hide_border=true&border_radius=10&card_width=800)](https://git.io/streak-stats)
 
+</div>
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=100&section=footer"/>
 </div>
-
 
