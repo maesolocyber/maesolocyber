@@ -19,11 +19,7 @@
 
 ---
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farouqshaheen&theme=blue-navy&hide_border=true&border_radius=10&card_width=800)](https://git.io/streak-stats)
 
-</div>
 
 ---
 
