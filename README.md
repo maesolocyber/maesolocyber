@@ -4,7 +4,12 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&multiline=true&width=950&height=150&lines=Cyber+Security+Enthusiast+%F0%9F%94%90;Red+Team+Junior+%7C+Offensive+Security;Game+Developer+%F0%9F%8E%AE+%7C+Unity+%26+C%23;Ethical+Hacking+%26+Penetration+Testing;Code+Logic+%7C+Exploits+%7C+Game+Mechanics)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&multiline=true&width=950&height=120&lines=Cyber+Security;Blue+Team)](https://git.io/typing-svg)
+
+</div>
+
 
 </div>
 
